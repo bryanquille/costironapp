@@ -1,6 +1,10 @@
+import Header from "./components/layout/Header";
+
 function App() {
   return (
-    <h1>Hello, CostIron App!</h1>
+    <>
+      <Header />
+    </>
   )
 }
 
