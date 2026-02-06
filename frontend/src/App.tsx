@@ -1,6 +1,6 @@
 function App() {
   return (
-    <div>App</div>
+    <h1>Hello, CostIron App!</h1>
   )
 }
 
